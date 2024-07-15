@@ -2,7 +2,7 @@
 
 [![PyPI version](https://badge.fury.io/py/minihuman.svg)](https://badge.fury.io/py/minihuman)
 [![Downloads](https://pepy.tech/badge/minihuman)](https://pepy.tech/project/minihuman)
-[![GitHub Issues](https://img.shields.io/github/issues/songlinxu/MiniHuman-Toolkit.svg)](https://github.com/songlinxu/MiniHuman-Toolkit/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/songlinxu/MiniHuman.svg)](https://github.com/songlinxu/MiniHuman/issues)
 
 
 
