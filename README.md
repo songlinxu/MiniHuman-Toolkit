@@ -79,7 +79,7 @@ We support a wide range of environmental stimuli to empower diverse application 
 
 If you use this repository, please cite it as follows:
 
-Songlin Xu, Xinyu Zhang. (2024). MiniHuman (Version 1.0). GitHub. https://github.com/songlinxu/MiniHuman
+Songlin Xu, Xinyu Zhang. (2024). MiniHuman-Toolkit (Version 0.1.2). GitHub. https://github.com/songlinxu/MiniHuman-Toolkit
 
 Alternatively, use the following BibTeX entry:
 
@@ -90,7 +90,7 @@ Alternatively, use the following BibTeX entry:
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/songlinxu/MiniHuman}},
+  howpublished = {\url{https://github.com/songlinxu/MiniHuman-Toolkit}},
   version = {1.0}
 }
 
