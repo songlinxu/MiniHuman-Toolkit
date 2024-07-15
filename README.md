@@ -9,6 +9,10 @@
 ## Introduction
 MiniHuman aims to leverage SOTA AI models (LLM agents, RL agents, etc), sensing, and intervention techniques to simulate both **human mind** (mental behaviors) and **physical behaviors**, to support AI and HCI applications in **education**, **health**, **recommendation**, **user experience**, and **human augmentation**.
 
+## News
+
+More models, behaviors, environments, and applications will be released soon!
+
 ## Applications
 
 ### Education
@@ -91,7 +95,7 @@ Alternatively, use the following BibTeX entry:
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/songlinxu/MiniHuman-Toolkit}},
-  version = {1.0}
+  version = {0.1.2}
 }
 
 
