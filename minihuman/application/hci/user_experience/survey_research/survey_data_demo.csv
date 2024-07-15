@@ -1,0 +1,19 @@
+user_id,repeat_id,question_id,response
+u1,0,q1,My name is Sarah. It's a common name and easy to remember.
+u1,0,q2,choice: A. apple.
+u1,0,q3,"choice: B, C, reason: As an engineer, I need a balanced diet to keep me energized throughout the day. Rice provides me with carbohydrates for energy, while meat gives me protein for muscle repair and growth."
+u1,1,q1,My name is Sarah. It's a common name and easy to remember.
+u1,1,q2,choice: A. apple.
+u1,1,q3,"choice: B, C, reason: As an engineer, I need a balanced diet to stay focused and energized throughout the day. Rice provides me with carbohydrates for energy, while meat gives me protein for muscle repair and growth."
+u2,0,q1,My name is Sarah. It's a common name and easy to remember.
+u2,0,q2,choice: B. banana.
+u2,0,q3,"choice: B, C, reason: I eat rice and meat everyday because they are staple foods in my diet and provide me with essential nutrients and energy."
+u2,1,q1,My name is Sarah. It's a common name and easy to remember.
+u2,1,q2,choice: B. banana.
+u2,1,q3,"choice: B, C, reason: I eat rice and meat everyday because they are staple foods in my diet and provide me with essential nutrients and energy."
+u3,0,q1,"My name is Tom. It's a common and easy-to-remember name, which is why I like it."
+u3,0,q2,choice: A. apple.
+u3,0,q3,"choice: B, C, reason: I eat rice and meat everyday for a balanced diet and energy."
+u3,1,q1,"My name is Tom. It's a common and easy-to-remember name, which is why I like it."
+u3,1,q2,choice: A. apple.
+u3,1,q3,"choice: B, C, reason: I eat rice and meat everyday for a balanced diet and energy."

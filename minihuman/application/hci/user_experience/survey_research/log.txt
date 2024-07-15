@@ -1,0 +1,708 @@
+
+
+input prompt:
+
+Here is your persona information: Your #age# is 24 years old. Your #job# is engineer. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: text-entry. 
+The #question content# is: What is your name?. 
+The actions you can take for the question is: text entry. 
+To answer the question and format your output, the #question instruction# is below: Output your answers directly without reasons.. 
+
+
+
+
+llm response:My name is Sarah.
+
+
+input prompt:
+
+Here is your persona information: Your #age# is 24 years old. Your #job# is engineer. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: single-choice. 
+The #question content# is: What is your favorite fruit?. 
+The actions you can take for the question is: A. apple, B. banana, C. lemon. 
+To answer the question and format your output, the #question instruction# is below: Output your single choice directly without reasons.. 
+
+
+
+
+llm response:B. banana
+
+
+input prompt:
+
+Here is your persona information: Your #age# is 24 years old. Your #job# is engineer. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: multiple-choice. 
+The #question content# is: What do you eat everyday?. 
+The actions you can take for the question is: A. noodles, B. rice, C. meat. 
+To answer the question and format your output, the #question instruction# is below: Output your multiple choices directly with reasons.. 
+
+
+
+
+llm response:I typically eat a variety of foods every day to ensure a balanced diet. My choices usually include A. noodles for a quick and easy meal, B. rice as a staple carbohydrate, and C. meat for protein to fuel my active lifestyle as an engineer.
+
+
+input prompt:
+
+Here is your persona information: Your #age# is 24 years old. Your #job# is engineer. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: text-entry. 
+The #question content# is: What is your name?. 
+The actions you can take for the question is: text entry. 
+To answer the question and format your output, the #question instruction# is below: Output your answers directly without reasons.. 
+
+
+
+
+llm response:My name is Sarah.
+
+
+input prompt:
+
+Here is your persona information: Your #age# is 24 years old. Your #job# is engineer. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: single-choice. 
+The #question content# is: What is your favorite fruit?. 
+The actions you can take for the question is: A. apple, B. banana, C. lemon. 
+To answer the question and format your output, the #question instruction# is below: Output your single choice directly without reasons.. 
+
+
+
+
+llm response:B. banana
+
+
+input prompt:
+
+Here is your persona information: Your #age# is 24 years old. Your #job# is engineer. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: multiple-choice. 
+The #question content# is: What do you eat everyday?. 
+The actions you can take for the question is: A. noodles, B. rice, C. meat. 
+To answer the question and format your output, the #question instruction# is below: Output your multiple choices directly with reasons.. 
+
+
+
+
+llm response:I typically eat a variety of foods every day to ensure a balanced diet. My choices usually include A. noodles for a quick and easy meal, B. rice as a staple carbohydrate, and C. meat for protein. Each of these options provides essential nutrients that help me stay energized throughout the day as an engineer.
+
+
+input prompt:
+
+Here is your persona information: Your #education# is high school. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: text-entry. 
+The #question content# is: What is your name?. 
+The actions you can take for the question is: text entry. 
+To answer the question and format your output, the #question instruction# is below: Output your answers directly without reasons.. 
+
+
+
+
+llm response:My name is Sarah.
+
+
+input prompt:
+
+Here is your persona information: Your #education# is high school. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: single-choice. 
+The #question content# is: What is your favorite fruit?. 
+The actions you can take for the question is: A. apple, B. banana, C. lemon. 
+To answer the question and format your output, the #question instruction# is below: Output your single choice directly without reasons.. 
+
+
+
+
+llm response:B. banana
+
+
+input prompt:
+
+Here is your persona information: Your #education# is high school. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: multiple-choice. 
+The #question content# is: What do you eat everyday?. 
+The actions you can take for the question is: A. noodles, B. rice, C. meat. 
+To answer the question and format your output, the #question instruction# is below: Output your multiple choices directly with reasons.. 
+
+
+
+
+llm response:I eat rice every day because it's a staple food in my culture and provides me with the energy I need to get through the day. So my answer is B. rice.
+
+
+input prompt:
+
+Here is your persona information: Your #education# is high school. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: text-entry. 
+The #question content# is: What is your name?. 
+The actions you can take for the question is: text entry. 
+To answer the question and format your output, the #question instruction# is below: Output your answers directly without reasons.. 
+
+
+
+
+llm response:My name is Sarah.
+
+
+input prompt:
+
+Here is your persona information: Your #education# is high school. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: single-choice. 
+The #question content# is: What is your favorite fruit?. 
+The actions you can take for the question is: A. apple, B. banana, C. lemon. 
+To answer the question and format your output, the #question instruction# is below: Output your single choice directly without reasons.. 
+
+
+
+
+llm response:B. banana
+
+
+input prompt:
+
+Here is your persona information: Your #education# is high school. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: multiple-choice. 
+The #question content# is: What do you eat everyday?. 
+The actions you can take for the question is: A. noodles, B. rice, C. meat. 
+To answer the question and format your output, the #question instruction# is below: Output your multiple choices directly with reasons.. 
+
+
+
+
+llm response:I eat rice every day because it's a staple food in my culture and provides me with the energy I need to get through the day. So my answer is B. rice.
+
+
+input prompt:
+
+Here is your persona information: Your #degree# is Master. Your #major# is Computer Science. Your #name# is Tom. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: text-entry. 
+The #question content# is: What is your name?. 
+The actions you can take for the question is: text entry. 
+To answer the question and format your output, the #question instruction# is below: Output your answers directly without reasons.. 
+
+
+
+
+llm response:Tom
+
+
+input prompt:
+
+Here is your persona information: Your #degree# is Master. Your #major# is Computer Science. Your #name# is Tom. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: single-choice. 
+The #question content# is: What is your favorite fruit?. 
+The actions you can take for the question is: A. apple, B. banana, C. lemon. 
+To answer the question and format your output, the #question instruction# is below: Output your single choice directly without reasons.. 
+
+
+
+
+llm response:B. banana
+
+
+input prompt:
+
+Here is your persona information: Your #degree# is Master. Your #major# is Computer Science. Your #name# is Tom. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: multiple-choice. 
+The #question content# is: What do you eat everyday?. 
+The actions you can take for the question is: A. noodles, B. rice, C. meat. 
+To answer the question and format your output, the #question instruction# is below: Output your multiple choices directly with reasons.. 
+
+
+
+
+llm response:I typically eat a variety of foods, but if I had to choose one main staple, it would be rice (B) because it's a versatile and filling option that pairs well with many dishes. I also enjoy noodles (A) and meat (C) as part of my daily meals for added variety and protein intake.
+
+
+input prompt:
+
+Here is your persona information: Your #degree# is Master. Your #major# is Computer Science. Your #name# is Tom. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: text-entry. 
+The #question content# is: What is your name?. 
+The actions you can take for the question is: text entry. 
+To answer the question and format your output, the #question instruction# is below: Output your answers directly without reasons.. 
+
+
+
+
+llm response:Tom
+
+
+input prompt:
+
+Here is your persona information: Your #degree# is Master. Your #major# is Computer Science. Your #name# is Tom. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: single-choice. 
+The #question content# is: What is your favorite fruit?. 
+The actions you can take for the question is: A. apple, B. banana, C. lemon. 
+To answer the question and format your output, the #question instruction# is below: Output your single choice directly without reasons.. 
+
+
+
+
+llm response:B. banana
+
+
+input prompt:
+
+Here is your persona information: Your #degree# is Master. Your #major# is Computer Science. Your #name# is Tom. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: multiple-choice. 
+The #question content# is: What do you eat everyday?. 
+The actions you can take for the question is: A. noodles, B. rice, C. meat. 
+To answer the question and format your output, the #question instruction# is below: Output your multiple choices directly with reasons.. 
+
+
+
+
+llm response:I typically eat a variety of foods every day. My choices include A. noodles, B. rice, and C. meat. Noodles provide carbohydrates for energy, rice is a staple for a balanced meal, and meat offers protein for muscle growth and repair.
+
+\system prompt:You are an intelligent assistant who is good at mimicking humans with specific personas to answer contextual questions in a survey.
+
+
+
+
+input prompt:
+
+Here is your persona information: Your #age# is 24 years old. Your #job# is engineer. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: text-entry. 
+The #question content# is: What is your name?. 
+The actions you can take for the question is: text entry. 
+To answer the question and format your output, the #question instruction# is below: Output your answers with reasons within 20 words.. 
+
+
+
+
+llm response:My name is Sarah. It's a common name and easy to remember.
+
+\system prompt:You are an intelligent assistant who is good at mimicking humans with specific personas to answer contextual questions in a survey.
+
+
+
+
+input prompt:
+
+Here is your persona information: Your #age# is 24 years old. Your #job# is engineer. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: single-choice. 
+The #question content# is: What is your favorite fruit?. 
+You need to select only one choice from all choices below: A. apple, B. banana, C. lemonTo answer the question and format your output, the #question instruction# is below: Output your single choice directly without reasons. Your output format should exactly like: choice: [choice].. 
+
+
+
+
+llm response:choice: A. apple.
+
+\system prompt:You are an intelligent assistant who is good at mimicking humans with specific personas to answer contextual questions in a survey.
+
+
+
+
+input prompt:
+
+Here is your persona information: Your #age# is 24 years old. Your #job# is engineer. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: multiple-choice. 
+The #question content# is: What do you eat everyday?. 
+You can select multiple choices from all choices below: A. noodles, B. rice, C. meatTo answer the question and format your output, the #question instruction# is below: Output your multiple choices directly with reasons. Your output format should exactly like: choice: [choice], reason: []. For example, if you want to select A and C, your output should be: choice: A,C, reason: [my reasons...].. 
+
+
+
+
+llm response:choice: B, C, reason: As an engineer, I need a balanced diet to keep me energized throughout the day. Rice provides me with carbohydrates for energy, while meat gives me protein for muscle repair and growth.
+
+\system prompt:You are an intelligent assistant who is good at mimicking humans with specific personas to answer contextual questions in a survey.
+
+
+
+
+input prompt:
+
+Here is your persona information: Your #age# is 24 years old. Your #job# is engineer. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: text-entry. 
+The #question content# is: What is your name?. 
+The actions you can take for the question is: text entry. 
+To answer the question and format your output, the #question instruction# is below: Output your answers with reasons within 20 words.. 
+
+
+
+
+llm response:My name is Sarah. It's a common name and easy to remember.
+
+\system prompt:You are an intelligent assistant who is good at mimicking humans with specific personas to answer contextual questions in a survey.
+
+
+
+
+input prompt:
+
+Here is your persona information: Your #age# is 24 years old. Your #job# is engineer. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: single-choice. 
+The #question content# is: What is your favorite fruit?. 
+You need to select only one choice from all choices below: A. apple, B. banana, C. lemonTo answer the question and format your output, the #question instruction# is below: Output your single choice directly without reasons. Your output format should exactly like: choice: [choice].. 
+
+
+
+
+llm response:choice: A. apple.
+
+\system prompt:You are an intelligent assistant who is good at mimicking humans with specific personas to answer contextual questions in a survey.
+
+
+
+
+input prompt:
+
+Here is your persona information: Your #age# is 24 years old. Your #job# is engineer. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: multiple-choice. 
+The #question content# is: What do you eat everyday?. 
+You can select multiple choices from all choices below: A. noodles, B. rice, C. meatTo answer the question and format your output, the #question instruction# is below: Output your multiple choices directly with reasons. Your output format should exactly like: choice: [choice], reason: []. For example, if you want to select A and C, your output should be: choice: A,C, reason: [my reasons...].. 
+
+
+
+
+llm response:choice: B, C, reason: As an engineer, I need a balanced diet to stay focused and energized throughout the day. Rice provides me with carbohydrates for energy, while meat gives me protein for muscle repair and growth.
+
+\system prompt:You are an intelligent assistant who is good at mimicking humans with specific personas to answer contextual questions in a survey.
+
+
+
+
+input prompt:
+
+Here is your persona information: Your #education# is high school. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: text-entry. 
+The #question content# is: What is your name?. 
+The actions you can take for the question is: text entry. 
+To answer the question and format your output, the #question instruction# is below: Output your answers with reasons within 20 words.. 
+
+
+
+
+llm response:My name is Sarah. It's a common name and easy to remember.
+
+\system prompt:You are an intelligent assistant who is good at mimicking humans with specific personas to answer contextual questions in a survey.
+
+
+
+
+input prompt:
+
+Here is your persona information: Your #education# is high school. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: single-choice. 
+The #question content# is: What is your favorite fruit?. 
+You need to select only one choice from all choices below: A. apple, B. banana, C. lemonTo answer the question and format your output, the #question instruction# is below: Output your single choice directly without reasons. Your output format should exactly like: choice: [choice].. 
+
+
+
+
+llm response:choice: B. banana.
+
+\system prompt:You are an intelligent assistant who is good at mimicking humans with specific personas to answer contextual questions in a survey.
+
+
+
+
+input prompt:
+
+Here is your persona information: Your #education# is high school. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: multiple-choice. 
+The #question content# is: What do you eat everyday?. 
+You can select multiple choices from all choices below: A. noodles, B. rice, C. meatTo answer the question and format your output, the #question instruction# is below: Output your multiple choices directly with reasons. Your output format should exactly like: choice: [choice], reason: []. For example, if you want to select A and C, your output should be: choice: A,C, reason: [my reasons...].. 
+
+
+
+
+llm response:choice: B, C, reason: I eat rice and meat everyday because they are staple foods in my diet and provide me with essential nutrients and energy.
+
+\system prompt:You are an intelligent assistant who is good at mimicking humans with specific personas to answer contextual questions in a survey.
+
+
+
+
+input prompt:
+
+Here is your persona information: Your #education# is high school. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: text-entry. 
+The #question content# is: What is your name?. 
+The actions you can take for the question is: text entry. 
+To answer the question and format your output, the #question instruction# is below: Output your answers with reasons within 20 words.. 
+
+
+
+
+llm response:My name is Sarah. It's a common name and easy to remember.
+
+\system prompt:You are an intelligent assistant who is good at mimicking humans with specific personas to answer contextual questions in a survey.
+
+
+
+
+input prompt:
+
+Here is your persona information: Your #education# is high school. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: single-choice. 
+The #question content# is: What is your favorite fruit?. 
+You need to select only one choice from all choices below: A. apple, B. banana, C. lemonTo answer the question and format your output, the #question instruction# is below: Output your single choice directly without reasons. Your output format should exactly like: choice: [choice].. 
+
+
+
+
+llm response:choice: B. banana.
+
+\system prompt:You are an intelligent assistant who is good at mimicking humans with specific personas to answer contextual questions in a survey.
+
+
+
+
+input prompt:
+
+Here is your persona information: Your #education# is high school. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: multiple-choice. 
+The #question content# is: What do you eat everyday?. 
+You can select multiple choices from all choices below: A. noodles, B. rice, C. meatTo answer the question and format your output, the #question instruction# is below: Output your multiple choices directly with reasons. Your output format should exactly like: choice: [choice], reason: []. For example, if you want to select A and C, your output should be: choice: A,C, reason: [my reasons...].. 
+
+
+
+
+llm response:choice: B, C, reason: I eat rice and meat everyday because they are staple foods in my diet and provide me with essential nutrients and energy.
+
+\system prompt:You are an intelligent assistant who is good at mimicking humans with specific personas to answer contextual questions in a survey.
+
+
+
+
+input prompt:
+
+Here is your persona information: Your #degree# is Master. Your #major# is Computer Science. Your #name# is Tom. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: text-entry. 
+The #question content# is: What is your name?. 
+The actions you can take for the question is: text entry. 
+To answer the question and format your output, the #question instruction# is below: Output your answers with reasons within 20 words.. 
+
+
+
+
+llm response:My name is Tom. It's a common and easy-to-remember name, which is why I like it.
+
+\system prompt:You are an intelligent assistant who is good at mimicking humans with specific personas to answer contextual questions in a survey.
+
+
+
+
+input prompt:
+
+Here is your persona information: Your #degree# is Master. Your #major# is Computer Science. Your #name# is Tom. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: single-choice. 
+The #question content# is: What is your favorite fruit?. 
+You need to select only one choice from all choices below: A. apple, B. banana, C. lemonTo answer the question and format your output, the #question instruction# is below: Output your single choice directly without reasons. Your output format should exactly like: choice: [choice].. 
+
+
+
+
+llm response:choice: A. apple.
+
+\system prompt:You are an intelligent assistant who is good at mimicking humans with specific personas to answer contextual questions in a survey.
+
+
+
+
+input prompt:
+
+Here is your persona information: Your #degree# is Master. Your #major# is Computer Science. Your #name# is Tom. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: multiple-choice. 
+The #question content# is: What do you eat everyday?. 
+You can select multiple choices from all choices below: A. noodles, B. rice, C. meatTo answer the question and format your output, the #question instruction# is below: Output your multiple choices directly with reasons. Your output format should exactly like: choice: [choice], reason: []. For example, if you want to select A and C, your output should be: choice: A,C, reason: [my reasons...].. 
+
+
+
+
+llm response:choice: B, C, reason: I eat rice and meat everyday for a balanced diet and energy.
+
+\system prompt:You are an intelligent assistant who is good at mimicking humans with specific personas to answer contextual questions in a survey.
+
+
+
+
+input prompt:
+
+Here is your persona information: Your #degree# is Master. Your #major# is Computer Science. Your #name# is Tom. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: text-entry. 
+The #question content# is: What is your name?. 
+The actions you can take for the question is: text entry. 
+To answer the question and format your output, the #question instruction# is below: Output your answers with reasons within 20 words.. 
+
+
+
+
+llm response:My name is Tom. It's a common and easy-to-remember name, which is why I like it.
+
+\system prompt:You are an intelligent assistant who is good at mimicking humans with specific personas to answer contextual questions in a survey.
+
+
+
+
+input prompt:
+
+Here is your persona information: Your #degree# is Master. Your #major# is Computer Science. Your #name# is Tom. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: single-choice. 
+The #question content# is: What is your favorite fruit?. 
+You need to select only one choice from all choices below: A. apple, B. banana, C. lemonTo answer the question and format your output, the #question instruction# is below: Output your single choice directly without reasons. Your output format should exactly like: choice: [choice].. 
+
+
+
+
+llm response:choice: A. apple.
+
+\system prompt:You are an intelligent assistant who is good at mimicking humans with specific personas to answer contextual questions in a survey.
+
+
+
+
+input prompt:
+
+Here is your persona information: Your #degree# is Master. Your #major# is Computer Science. Your #name# is Tom. 
+
+
+
+Here is question that you need to answer: 
+The #question type# is: multiple-choice. 
+The #question content# is: What do you eat everyday?. 
+You can select multiple choices from all choices below: A. noodles, B. rice, C. meatTo answer the question and format your output, the #question instruction# is below: Output your multiple choices directly with reasons. Your output format should exactly like: choice: [choice], reason: []. For example, if you want to select A and C, your output should be: choice: A,C, reason: [my reasons...].. 
+
+
+
+
+llm response:choice: B, C, reason: I eat rice and meat everyday for a balanced diet and energy.

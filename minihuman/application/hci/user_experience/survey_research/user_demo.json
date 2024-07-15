@@ -1,0 +1,14 @@
+{
+    "u1": {
+        "age": "24 years old",
+        "job": "engineer"
+    },
+    "u2": {
+        "education": "high school"
+    },
+    "u3": {
+        "name": "Tom",
+        "major": "Computer Science",
+        "degree": "Master"
+    }
+}
