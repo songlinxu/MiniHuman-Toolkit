@@ -28,7 +28,7 @@ More models, behaviors, environments, and applications will be released soon!
 - Cognitive Training (e.g., [TimeCare](https://dl.acm.org/doi/10.1145/3544548.3580905) [CHI 2023])
 
 ### Climate Change
-
+- Human action in response to climate change
 
 ### Scientific Discovery
 
