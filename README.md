@@ -16,16 +16,16 @@ More models, behaviors, environments, and applications will be released soon!
 ## Applications
 
 ### Education
-- Knowledge Tracing
-- Student Behavior Regulation
+- LLM-based Student Simulator (e.g., [Classroom Simulacra](https://arxiv.org/abs/2502.02780) [CHI 2025], [EduAgent](https://arxiv.org/abs/2404.07963), [EduTwin](https://arxiv.org/abs/2310.19206))
+- Student Behavior Regulation (e.g., [PeerEdu](https://arxiv.org/abs/2312.02358) [CHI 2025])
 
-### Health
-- Attention Regulation
-- Emotion Regulation
+### Mental Health
+- Attention Regulation (e.g., [Eyerofeedback](https://arxiv.org/abs/2307.15172))
 
 
-### Human Augmentation
-- Cognitive Training
+### Human Cognitive Augmentation
+- Deep Reinforcement Learning Based Cognition Model (e.g., [ReactiveAgent](https://arxiv.org/abs/2301.06216))
+- Cognitive Training (e.g., [TimeCare](https://dl.acm.org/doi/10.1145/3544548.3580905) [CHI 2023])
 
 ### Human Computer Interaction
 - User experience simulation
