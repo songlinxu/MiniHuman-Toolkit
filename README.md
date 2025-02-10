@@ -27,12 +27,11 @@ More models, behaviors, environments, and applications will be released soon!
 - Deep Reinforcement Learning Based Cognition Model (e.g., [ReactiveAgent](https://arxiv.org/abs/2301.06216))
 - Cognitive Training (e.g., [TimeCare](https://dl.acm.org/doi/10.1145/3544548.3580905) [CHI 2023])
 
-### Human Computer Interaction
-- User experience simulation
+### Climate Change
 
 
-### Recommendation
-- User Web Behavior Simulation
+### Scientific Discovery
+
 
 ### Social Science
 - Social Interaction
