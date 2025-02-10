@@ -1,4 +1,4 @@
-# MiniHuman: Simulating Virtual Human Behaviors and Responses to Environmental Stimuli
+# MiniHuman: Simulating, Augmenting, and Regulating Virtual Human Behaviors and Responses to Environmental Stimuli
 
 [![PyPI version](https://badge.fury.io/py/minihuman.svg)](https://badge.fury.io/py/minihuman)
 [![Downloads](https://pepy.tech/badge/minihuman)](https://pepy.tech/project/minihuman)
